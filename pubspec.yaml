@@ -4,7 +4,7 @@ version: 0.0.9
 homepage: https://github.com/chatwoot/chatwoot-flutter-sdk
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -16,7 +16,7 @@ dependencies:
   uuid: ^3.0.4
   web_socket_channel: ^2.1.0
   json_annotation: ^4.0.1
-  dio: ^4.0.0
+  dio: ^5.4.0
   equatable: ^2.0.3
   riverpod: ^0.14.0+3
   synchronized: ^3.0.0
